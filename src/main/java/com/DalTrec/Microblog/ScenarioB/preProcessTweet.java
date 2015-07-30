@@ -18,7 +18,7 @@ public class preProcessTweet
 	{
 		try
 		{
-			FileInputStream fin = new FileInputStream("./data/stop.txt");
+			FileInputStream fin = new FileInputStream("../../../data/stop.txt");
 			DataInputStream din = new DataInputStream(fin);
 			BufferedReader bin = new BufferedReader(new InputStreamReader(din));
 			
