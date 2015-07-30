@@ -118,7 +118,7 @@ public class DalTrecScenarioB
 	  {
 		  try
 		  {
-				FileInputStream fin = new FileInputStream("./data/ManuallyLabeledKeyterms2.txt");
+				FileInputStream fin = new FileInputStream("../../../data/ManuallyLabeledKeyterms2.txt");
 				DataInputStream din = new DataInputStream(fin);
 				BufferedReader bin = new BufferedReader(new InputStreamReader(din));
 				
@@ -146,7 +146,7 @@ public class DalTrecScenarioB
 	  {
 		  try 
 		  {
-			  indexLocation = new File("./data/index/"+curDate);
+			  indexLocation = new File("../../../data/index/"+curDate);
 			  analyzer = new TweetAnalyzer(Version.LUCENE_43);		
 			
 			  dir = FSDirectory.open(indexLocation);
@@ -183,7 +183,7 @@ public class DalTrecScenarioB
 			document.add(IdField);
 			document.add(timeField);
 
-			File path = new File("./data/tweets/");
+			File path = new File("../../../data/tweets/");
 			
 			File[] listOfFiles = path.listFiles(new FilenameFilter() { 
 	            public boolean accept(File dir, String filename)
@@ -197,7 +197,7 @@ public class DalTrecScenarioB
 			    int hour = Integer.parseInt(f.getName().split("-")[3]);
 			    if (((day==curDate) && (hour<21)) || ((day==(curDate-1))&& (hour>20)))			    	
 				{
-					File inFile = new File("./data/tweets/" + f.getName());
+					File inFile = new File("../../../data/tweets/" + f.getName());
 					FileInputStream fin = new FileInputStream(inFile);	
 					DataInputStream din = new DataInputStream(fin);
 					BufferedReader bin = new BufferedReader(new InputStreamReader(din));
@@ -250,7 +250,7 @@ public class DalTrecScenarioB
 	{	
 		try
 		{
-		    fout = new FileWriter("./data/results",true);
+		    fout = new FileWriter("../../../data/results",true);
 			bout = new BufferedWriter(fout);
 			  
 			SearcherManager mgr = new SearcherManager(dir,new SearcherFactory());
