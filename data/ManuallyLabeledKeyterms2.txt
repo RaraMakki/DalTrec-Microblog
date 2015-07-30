@@ -1,0 +1,224 @@
+MB450	traffic:5	camera:7	cameras:7	driver:3
+MB449	lego:5	robotics:5	school:2	competition:2
+MB448	Bouchercon:10	Mystery:5	Anthony:5	award:5
+MB447	Pixels:8	movie:2	critic:2	cast:2	dircetor:2	crew:2	preview:2	trailer:2	teaser:2	film:2
+MB446	lacrosse:10	tournaments:2	competition:2	contest:2	champion:2	challenge:3
+MB445	prince:2	birthday:8	royal:5	honorary:2
+MB444	Scottish:8	Highlands:4	games:2	game:2	Northwest:2	pacific:2	Clan:8	gathering:2	Enumclaw:8
+MB443	bee:8	hives:8	raise:2	raising:2	honey:5	produce:5
+MB442	bay:3	bridge:3	accident:4	Maryland:3	traffic:4
+MB441	speech:5	recognition:5
+MB440	saudi:3	Arabia:3	women:4	right:3	drive:2
+MB439	Bolton:5	Wanderers:5	club:3	football:5	soccer:3	OfficialBWFC:10
+MB438	marlin:8	fishing:2	fish:2	catch:2	sea:2
+MB437	gay:8	adopt:2	adoption:2	raise:2
+MB436	restaurant:4	tip:8	receive:2	paid:2	collect:2
+MB435	poetry:5	festival:4	fest:4	new york:2	nyc:2	mta:2	celebration:4
+MB434	PanAm:10	game:2	2015:2
+MB433	recall:5	car:5	return:5	recollet:5	automobile:5
+MB432	Rushmore:10	mountain:2	mount:2	dekota:8
+MB431	Shakespeare:8	company:2	royal:2	theater:2
+MB430	Palin:10	SarahPalinLinks:10	SarahPalinUSA:10
+MB429	gates:5	foundation:8	bill:2	Melinda:2
+MB428	choice:5	teen:7	award:3	2015:2	
+MB427	taylor:8	concert:2	swift:8	taylorswift13:8	tour:2
+MB426	billyjoel:8	concert:2	Billy:8	Joel:8	tour:2
+MB425	Sudoku:10	tournaments:2	competition:2	contest:2	puzzle:2	champion:2	challenge:3
+MB424	Comcast:6	customer:2	service:2
+MB423	domestic:3	surveillance:7	drone:6	privacy:2	right:2	obsreve:7	inspect:7
+MB422	orchids:10	grow:2	produce:2	care:2	cultivate:2	plant:2	nursery:2
+MB421	casino:7	gambling:7	maryland:3	sociocultural:2
+MB420	Sriracha:10	sauce:3	food:2	taste:2
+MB419	king:8	george:7	ascot:2	weekend:2	horse:2	race:2	ascot:2	racecourse:3
+MB418	ballroom:7	dance:2	dancing:2	competition:3	contest:3	tournament:3	champion:3	challenge:3
+MB417	cataract:8	surgery:2	removal:2	replacement:2	replace:2	remove:2
+MB416	Hepworth:10	exhibit:2	sculpture:2	Gallery:2	Tate:10	London:2
+MB415	Ariana:8	Grande:8	tour:2	concert:2	award:2	song:2	play:2	perform:2	sing:2	ArianaGrande:8
+MB414	cuba:8	travel:2	trip:2	vacation:2	relax:2	journey:2	tour:2	tourism:2	tourist:2	passenger:2
+MB413	Silverstone:6	classic:6	balloon:4	meet:3
+MB412	Bluegrass:8	Oldtime:8	music:2	festival:2	nova scotia:2	ns:2
+MB411	disney:8	world:2	park:2	florida:2
+MB410	icon:8	movie:2	film:2	tv:2	television:2	hidden:2
+MB409	TSA:8	airport:2	security:8	check:2	screen:2	monitor:2	safety:2	check-in:2	gate:2	departure:2	delay:2	passenger:2
+MB408	amphetamines:10	ADHD:10	hyperactivity:10	attention:5	deficit:5	disorder:5	treatment:2	medication:2	reaction:2
+MB407	sunburn:5	art:5
+MB406	KOBE:5	ISBS:5	conference:2	Neuroscience:5	stress:2	Biological:5
+MB405	Rotterdam:8	festival:2	carnaval:2	event:2	unlimited:2	cultural:2	culture:2	fair:2	celebration:2
+MB404	vacation:8	movie:2	film:2	trailer:2	teasor:2	critic:2	cast:2	dircetor:2	crew:2	preview:2
+MB403	Amazon:5	shipping:2	delivery:2	USPS:5	post:2	postal:2	prime:3	ship:2
+MB402	Kardashian:8	breakup:2	khloekardashian:8	ScottDisick:10	separate:2	Disick:8	split:2
+MB401	KnockKnockFOX:10	prize:2	KnockKnockLive:10
+MB400	probiotics:10	bacteria:2	digestive:2	yeast:2
+MB399	dementia:8	lewy:8	body:2	Parkinson:7	LBD:10	sleep:3
+MB398	cricket:4	ashes:4	english:4	england:4	australia:4	australian:4	ashes2015:4	ashesexpress:4	eng:4	aus:4
+MB397	Expo:10	milano:5	festadelpane:10	expo2015:10	Expo2015Milano:10
+MB396	Bienniale:8	festival:2	art:2	venice:6	la_Biennale:10	biennalearte2015:10
+MB395	pelosi:10	NancyPelosi:10
+MB394	one-sided:8	biased:8	news:2	media:2	report:2	reporter:2	agency:2
+MB393	harvest:5	crop:5	yields:5	agricultural:8	agriculture:8	output:2	us:4	usa:4	united states:4	u.s.:4	america:4	states:4	usa:4
+MB392	forest:5	fire:5	us:4	usa:4	united states:4	u.s.:4	wildfire:6	america:4	states:4	usa:4
+MB391	icecap:5	melt:5	melting:5	pole:5	melted:5	ice:4	cap:3
+MB390	Apple:5	music:5	itunes:5	garageband:10	logic pro x:10	logic:5	pro:5	Audacity:10	Gtuner:10	mixxx:10	Hydrogen:10	melodyne:10	reaktor:10	reaper:10
+MB389	Clinton:5	foundation:5
+MB388	Saratoga:7	race:3	track:3	nyc:2	mta:2	new york:2	saratogatrack:10
+MB387	Newport:6	Folk:5	music:2	festival:2	celebration:2	carnaval:2	fest:2	Newportfolkfest:10
+MB386	PCSK9:10	inhibitors:5	cholesterol:5	NARC-1:10
+MB385	outage:4	metro:4	subway:4	D.C.:4	accident:4	blackout:4
+MB384	arson:8	fire:4	downtown:2	center:2	inner:2	insurance:4
+MB383	online:3	dating:3	women:3	female:3	woman:3	55+:3	middle-aged:3	older:3
+MB382	fashion:7	trend:7	children:3	kids:3	clothing:7	babies:3	boys:3	girls:3	apparel:7
+MB381	coin:7	collecting:3	collector:3	collection:3	expo:3	expos:3	numismatic:10	club:3
+MB380	HomeFreeFOX:10	homefree:10	home:4	free:4	reality:2	show:2	competition:2	contest:2	challenge:2	remodel:4	remodeling:4
+MB379	morel:5	true:5	Morchella:10	mushroom:5	recipe:2
+MB378	cocker:4	spaniel:4	adoption:4	adopt:4	rescue:2	shelter:2
+MB377	safari:4	wildlife:4	zoo:4	park:2	attack:6	safety:2	safe:2	survive:2
+MB376	military:4	exercises:4	exercises:4	southwest:4	forces:4	march:4	martial:4	training:4	Arizona:4	California:4	Colorado:4	New Mexico:4	Nevada:4	Texas:4	Utah:4	CAgovernment:4
+MB375	concussion:10	injuriy:5	injuries:5	unconsciousness:10	faint:5	sport:2	shock:2	conscious:5
+MB374	beer:5	brew:5	home-brewing:5	brewing:5	home:5	kit:4
+MB373	T-Mobile:5	Dish:5	merge:5	merger:5
+MB372	serotonin:8	low:2	symptom:2	mood:2	sleep:2	emotion:2	appetite:2	depression:2
+MB371	self-driving:8	car:2	automobile:2	driveless:8	google:8
+MB370	Airbus:5	380:5	A380:10
+MB369	Manhattan:6	high:2	line:2	linear:2	park:2
+MB368	Whitney:4	Museum:4	whitneymuseum:8	renzo:4	piano:4	building:2	relocate:2	location:2	design:2
+MB367	turkish:6	government:5	Erdogan:10	party:3	election:5	turkey:6	rule:4	leadership:4	administration:5
+MB366	Everest:7	climb:3	nepal:2	mount:2	ascent:3	walk:3	summit:3	rise:3	ascend:3	conquer:3
+MB365	cellphone:5	track:5	tracking:5	police:2	federal:2	law:2	court:2
+MB364	Aztec:5	archaeological:2	mexico:5	sites:2
+MB363	school:4	supplies:4	supply:4	sale:4
+MB362	Outback:5	Steakhouse:5	restaurant:2
+MB361	adult:4	summer:4	camp:4
+MB360	Israel:7	BDS:5	Blockade:3	Divestment:3	Sanctions:3	movement:3	BDSmovement:10	palestine:2
+MB359	Grey:7	book:3	author:3	E.L. James:3	shades:4	editor:3	published:3
+MB358	fitness:7	sensor:3	Fitbit:10	app:3	tracker:3	track:3	activity:7	exercise:7
+MB357	Ritalin:5	attetion:2	college:5	study:2	concentration:2	student:5	campus:5
+MB356	fitness:4	senior:6	exercise:4	activity:4	routine:2	elderly:6
+MB355	pvillewinefest:10	fest:2	festival:2	celebration:2	wine:2	food:2	purcellville:6
+MB354	Watchman:7	book:3	critic:3	published:3	father:3	parent:3
+MB353	affective:2	disorder:4	seasonal:2	summer:4	season:2	blues:6	treatment:2	symptom:2
+MB352	Wegmans:10	supermarket:2
+MB351	Piedmont:10	Valperga:8	city:2	town:2	visit:2	italy:2	trip:2	travel:2	region:2
+MB350	farmers:5	market:5	farm:5	markets:5
+MB349	pointer:4	laser:4	aircraft:2	airplane:2	helicopter:2	jet:2	pointed:4	airline:2
+MB348	drone:5	drones:5	commercial:5	airliners:2	pilot:2
+MB347	nepal:5	earthquake:5	recovery:2	rescue:2	save:2	survivors:2	volunteer:2
+MB346	snake:5	bite:5	encounter:5	venomous:5	sting:5
+MB345	triathlon:8	triathletes:8	triathlon:8	contest:2	competition:2	championship:2	tournament:2
+MB344	Iran:5	nuclear:5	agreement:5	negotiations:3	sanction:3	p5+1:5	irantalks:10	irantalksvienna:10	jzarif:5
+MB343	NF:5	necrotizing:5	fasciitis:5	necrotising:5	flesh:5	bacteria:5
+MB342	beta:5	blockers:5	adrenergic:5	blood:2	pressure:2	glaucoma:2	migraines:2	side:2	effect:2
+MB341	Seafair:6	Fleet:2	ship:2	tour:2	festival:2	fest:2	celebration:2	Seattle:4	SeafairFestival:10
+MB340	perennial:7	durable:7	plant:3	plants:3	flower:3	herb:3	soil:3	grow:3	garden:2
+MB339	Chincoteague:5	pony:6	swim:4	annual:2	Ponies:6	penning:4	auction:4	accommodations:2
+MB338	gluten:7	free:3	substitutes:3	substitute:3	replace:3	gluten-free:10	recipe:2	recipes:2	GF:8	flour:3	baking:3	cooking:3	bake:3
+MB337	Prince:5	harry:3	romance:2	love:2	girl:2	girlfriend:2	relationship:2	Cressida:2	Bonas:2	Chelsy:2	Davy:2	HWalesWire:8
+MB336	robotics:7	graduate:3	program:3	admission:3	apply:3	application:3	school:3	study:3	department:3
+MB335	pop-up:8	store:2	market:2	retail:8	retailing:8	flash:2	shop:2	pop:6	up:2
+MB334	mindfulness:8	techniques:2	technique:2	meditation:2	multitask:2	training:2	therapy:2	Exercises:2	Exercises:2	pressure:2	stress:2	work:2	job:2	employee:2	employer:2
+MB333	assisted:5	living:2	facility:2	nyc:2	mta:2	new york:2	washington:2	d.c.:2	program:2	elderly:4	senior:4
+MB332	music:5	style:2	musicians:5	fresh:3	new:3	emerging:3	rising:3
+MB331	Special:4	Olympics:6	LA2015:8	game:2	games:2
+MB330	kayaking:10	kayakers:10	outings:2
+MB329	Baltimore:4	police:4	trial:6	Freddie:4	Gray:4	officer:4	FreddieGray:8	Bledsoe:8	maryland:2	Williams:8
+MB328	Afghanistan:5	ISIS:5	DAISH:5	ISIL:5	Afghani:5	Taliban:5	rise:2	presense:2
+MB327	Egypt:5	libya:5	unrest:2	derna:5	retaliation:2	Egyptian:5	airstrike:2	strike:2
+MB326	wheelchair:5	accessibility:5	wheelchair-bound:5	access:5
+MB325	Ghan:10	train:2	Darwin:5	Adelaide:5	meal:2	rail:2
+MB324	GSR:10	Indian-Pacific:10	Indian:5	pacific:5	railway:2	train:2	rail:2	Sydney:2	Perth:2
+MB323	Mohonk:10	house:2	mountain:2	resort:2	vacation:2	accomodations:2	mountaintop:2
+MB322	Trapp:8	family:2	Lodge:2	Stowe:2	vermont:2	resort:2	vacation:2	accomodations:2	trappfamily:10
+MB321	DUI:10	violate:5	violation:5	celebrity:2	celebrities:2	driving:5
+MB320	Alaskan:8	cruises:2	cruise:2	multi:2	princess:8	Oosterdam:8	ship:2
+MB319	European:8	cruises:2	cruise:2	Europe:8	ship:2
+MB318	Rodriguez:8	Willie:2	Mays:2	record:2	tying:2	Yankees:6	A-Rod:8	Rod:8	AROD:8	Rodriguez_News:8	$6:2	bonus:4
+MB317	Paleo:8	diet:2	food:2	weight:2	loss:2	leap:2	recipe:2	ThePaleoDiet:10
+MB316	carbohydrate:6	low:2	food:2	weight:2	loss:2	recipe:2	South:3	Beach:3	diet:4	glycemic:8	GI:8	southbeachdiet:10	Cravesomethingbrighter:10	gotitfree:10	GIDiet:10	GIDiets:10	GIDietSuccess:10	LowGIDietNews:10
+MB315	transgender:10	health:2	service:2	financial:2	insurance:2
+MB314	honey:8	price:4	expensive:2	cheap:2	bee:5	rising:2	rise:2	increase:2
+MB313	Windows:6	10:4	release:4	Microsoft:2	windows10_news:10
+MB312	lawn:5	bowling:5	game:2	league:2	bowls:10	BowlsAustralia:10
+MB311	Cheltenham:6	music:2	festival:2	fest:2	celebration:2	cheltfestivals:8	CheltenhamMusic:8	jazz:2
+MB310	razor:5	nono:5	no:2	hair:3	removal:2
+MB309	Wint:5	murder:4	mansion:6	case:2	D.C.:2	DC:2	accused:2	guilty:2
+MB308	Alexander:6	jazz:5	musician:4	pianist:4	record:2	concert:2	performance:2	_JoeyAlexander:10	JoeyAlexander:10
+MB307	IKEA:5	climate:5	IKEAClimate:5	plan:2	atmospher:5	weather:5
+MB306	conference:4	writer:4	U.S.:2	america:2	states:2	usa:2	WritersConferen:8
+MB305	Museum:4	American:4	history:4	D.c.:4	dc:4	washington:4	amhistorymuseum:10	NMAAHC:10
+MB304	bridge:6	tournaments:4	U.S.:2	america:2	states:2	usa:2	championship:2	contest:2	game:2	competition:2	ACBL:8	league:2	ACBLbridge:10
+MB303	Dakota:5	Dakotas:5	fracking:5	FrackingBan:10
+MB302	gasoline:8	gas:8	price:2	car:2	automobile:2	DC:2	D.C.:2	wahington:2
+MB301	Takata:8	air:2	recall:2	return:2	airbag:2	bag:2
+MB300	Burundi:8	voting:2	election:2	vote:2	voter:2	burundicrisis:10	poll:10	polls:10
+MB299	subway:8	metro:8	U.S.:2	america:2	states:2	usa:2	commuting:2	commuter:2
+MB298	Israel:4	israeli:4	gaza:4	palestine:4	palestinian:4	rocket:4	retaliatory:2	retaliation:2	retaliate:2
+MB297	Wimbledon:10	tennis:4	Tournament:2	league:2	competition:2	championship:2	contest:2	game:2	referee:4
+MB296	free-range:10	kids:4	children:4	range:4	free:4	parenting:5	parent:5	FreeRangeKids:10	U.S.:2	america:2	states:2	usa:2
+MB295	Genisys:10	terminator:10	movie:2	film:2	critic:2	review:2	imdb:2
+MB294	France:2	race:2	Tour de France:10	bicycle:6	doping:3	drug:3	TDF2015:10	TourDeFrancia :10	letour:10
+MB293	Golf:4	Tournament:2	british:6	league:2	competition:2	championship:2	contest:2	game:2	theopen:10	britishopen:10	TheOpenChampionship:10	theopen2015:10
+MB292	Lollapalooza:10	music:2	festival:2	fest:2	celebration:2	lollapalooza:10	lollapalooza:10	lolla:10
+MB291	Hastert:8	scandal:3	abuse:3	sexual:3	sex:3
+MB290	H1N2:5	bird:4	outbreak:4	U.S.:5	america:5	states:5	usa:5
+MB289	Hewlett:4	Packard:4	breakup:6	hp:4	stock:2	split :6	separate:6
+MB288	pet:5	expo:5	chicago:4	petexpo:10
+MB287	Vatican:5	Tapes:5	VaticanTapes:10	cast:2	crew:2	review:2	film:2	movie:2
+MB286	apprenticeship:10	training:4	graduate:2	school:2	high:2	job:2	 apprentice:10
+MB285	LA:4	neighborhood:4	area:4	living:4	artists:2	housing:2	los angeles:4
+MB284	identity:4	theft:6	credit:4	identification:4	monitor:6	IDTheft:10	IdentityTheft:10	IDProtectBlog:10	FightIDTheft:10
+MB282	euthanasia:10	incurable:8	diseases:6	die:2	death:2	right:2	end-of-life:8	EuthanasiaPC:10	assistedsuicide:10	debate:2	legislative:2	law:2	suicide:2	bill:2
+MB281	tick:5	bite:5	treatment:4	remedy:4	sting:5
+MB280	Bastille:6	paris:2	terrorist:4	Bastilleday:6	car:2	france:2
+MB279	Bingham:6	snooker:4	stuart_bingham:6	performance:5	championship:4	emotional:2
+MB278	Mr.:4	Holmes:6	movie:2	film:2	critic:4	review:2	imdb:2	rating:4
+MB277	calcium:8	supplements:5	osteoporosis:5	dosage:2	pills:2
+MB276	gay:5	marriage:2	europe:4	law:2	bill:2	legalizing:2	England:4	france:4	Ireland:4	LGBT:7	same-sex:5	gaymarriage:6	4gaymarriage:6	right:2
+MB226	quilt:10	quilter:10	Hershey:5	show:2	winner:2
+MB227	Pradaxa:10	thining:5	blood:2	medication:2	side:2	effect:2
+MB228	Coumadin:5	dietary:5	food:5	diet:5	eat:5	avoid:2	restrictions:2
+MB229	medical:3	marijuana:5	legalizing:5	Legislative:3	law:2	bill:2	vote:2	U.S.:2	america:2	states:2	usa:2
+MB230	bus:5	NYC:5	New York:5	service:3	public transport:5	BusNYC:10	mta:5
+MB231	Rubio:10	Marco:5	republican:2	campaign:2	nomination:2	marcorubio:10	MarcoMonday:10	NewAmericanCentury:10	teammarco:10	rubio2016:10	teamrubio:10
+MB232	O'Malley:10	Malley:10	Martin:5	Democratic:2	campaign:2	nomination:2	MartinOMalley:10	OMalley2016:10	MartinOMalley:10	newleadership:10
+MB233	deal:2	Washington:4	Nationals:8	Trade:2	nats:8	contract:2	sign:2	player:2	welcome:2
+MB234	Orioles:8	Baltimore:4	trade:2	contract:2	sign:2	player:2	BirdlandInsider:8	birdland:8	welcome:2
+MB235	drought:4	water:4	California:4	residential:2	CAgovernment:4	Californians:4	californiadrought:8	CAdrought:8	usage:2	reduce:2
+MB236	drought:4	water:4	California:4	agricultural:2	agriculture:2	farmers:2	farm:2	CAgovernment:4	Californians:4	californiadrought:8	CAdrought:8	restrictions:2
+MB237	E-Cig:10	cigarettes:5	electronic:5	flavor:2	vanilla:2	cherry:2	vaporfi:10	mig cigs:10	apollo:10	halo:8	v2:8	cigs:2	cig:2
+MB238	haggis:4	vending:2	market:4	Edinburgh:3	fringe:3	food:5	festival:2	fest:2	celebration:2	fair:2	edfringe:6	booth:4	sale:2
+MB239	rail:6	safe:4	railway:6	accident:4	safety:4
+MB240	Sugarloaf:5	wine:5	taste:2	flavor:2	tasting:2	smvwine:10	Vineyard:5	wine:5	Mountain:2	SMV_Winery:10
+MB241	band:3	Annapolis:3	Irish:5	perform:2	music:2	AnnapIrishFest:8
+MB242	Houthi:4	houthis:4	Saudi:4	SaudiArabia:4	Yemen:4	bomb:2	attack:2	bombing:2	aircraft:2	assult:2	airstrike:2	strike:2
+MB243	bribery:4	FIFA:6	investigation:4	rebidding:4	corruption:4	Is_FIFA_Corrupt:10
+MB244	Houthi:5	houthis:5	yemen:5	rebel:2	talk:5	negotiate:5	agreement:5	agreed:5	talks:5	government:2
+MB245	Ramadi:6	Iran:4	ISIS:4	ISIL:4	DAISH:4	Shea:4	militia:2	forces:2	Iraq:2	iranian:4	bomb:2
+MB246	Greek:5	debt:5	greece:5	withdrawal:5	withdraw:5	crisis:2	Union:3	European:3	Monetary:3	fund:2	ECB:3	IMF:3	euro:5	bailout:5	eurogroup:5
+MB247	Harlem:10	harlemweek:10	accomodations:5	restaurant:5	Apollo:5	theater:5	week:2	historic:2	hotel:2
+MB248	Harlem:5	5k:5	race:2	run:5	running:5	kilometers:5	competition:2	contest:2	percysutton5k:10
+MB249	Lyme:8	HopkinsMedicine:5	Hopkins:5	John:2	Johns:2	hospital:2	disease:2	treatment:2	study:2	medication:2
+MB250	Shakespeare:5	outdoor:4	performance:4	play:4	perform:4	New York:2	NYC:2	hotel:2	restaurants:2	motel:2	mta:2
+MB251	TrainingCampNFL:10	camp:6	camping:6	NFL:4	football:4	training:4	league:2	team:2	train:2
+MB252	Lamictal:8	achievements:5	study:2	progress:2	learning:2	achievement:2	academic:2	school:2
+MB253	disabilities:4	care:2	children:5	kids:5	insurance:2	act:2	handicapped:4	disable:4	coverage:2	medical:2	equipment:2	disabled:4	healthcare:2	caudwellkids:8	DCAServes:8	healthcareact:2
+MB254	depression:6	depressed:6	cancer:4	treatment:4	prognosis:4	survivors:4	successful:2	free:2	
+MB255	cruise:6	cruises:6	cruising:6	insurance:4	emergency:4	medical:4	health:4	passenger:2
+MB256	Pope:4	Francis:2	social:4	media:4	Facebook:4	Twitter:4	Pontifex:6	Catholicism:2	catholic:2	belief:2
+MB257	Whiskey:4	blue:4	film:2	movie:2	festival:2	fest:2	celebration:2	winner:2	Independent:2	BWiFF2015:10	BlueWhiskeyFF:10
+MB258	restaurant:5	NYCRW:10	RestaurantWeek:10	week:5	NYC:2	new york:2	mta:2
+MB259	MAOI:10	food:2	interaction:2	unexpected:2	reaction:2	conflict:2
+MB260	Civil:4	war:4	society:4	women:4	Briar:2	conference:2	attend:2
+MB261	microbrewery:4	Brew:4	microbrews:4	microbreweries:4	national:2	zoo:6	taste:2	quality:2	Washington:2	antic:2	D.C.:2	dc:2	NationalZoo:6	natzoopandas:6
+MB262	Colbert:6	StephenAtHome:8	Letterman:5	host:5	Late:2	show:2	colbertlateshow:10	Letterman:6	lateshow:6	The_lateshow:6
+MB263	Crohn's:10	Crohn:10	treatment:5	disease:2	diagnose:2	patient:2
+MB264	vaxfax:10	SayNoToVaccines:10	vaccine:5	vaccines:5	children:2	kids:2	kid:2	infants:2	babies:2	avoid:2	avoiding:2	harmful:2	dangerous:2
+MB265	mishap:5	disaster:5	mishaps:5	cruise:5	ship:5	ships:5	cruises:5	accident:5	outbreaks:5	collisions:5	breakdown:5	sinking:5
+MB266	ferry:5	ferries:5	mishap:5	disaster:5	mishaps:5	capsizing:5	accident:5	outbreaks:5	collisions:5	breakdown:5	sinking:5
+MB267	Ukraine:5	pro-Russian:5	rebel:5	force:5	forces:5	fight:2	battle:2	russia:5	attack:2	military:5
+MB268	SyrianCivilWar:10	conflict:5	Syria:5	Syrian:5	civil:5	force:5	forces:5	government:5	Hezbollah:5	war:2	bomb:2	chemical:2	bomb:2
+MB269	refugee:4	asylum:4	resettlement:4	accept:2	quota:6	quotas:6	England:2	European:2	union:2	europe:2	countries:2	eu:2
+MB270	Rohingya:8	RohingyaMuslims:8	Myanmar:5	crisis:2	refugee:3	refugees:3	stranded:5	resettle:2	sea:2	rescue:2	save:2
+MB271	Kakuro:10	Cross-Sums:10	puzzle:5	puzzles:5	tournaments:2	tournament:2	challenge:2	champion:2	app:2	apps:2	solve:2	game:2
+MB272	fishing:4	Atlantic:4	contest:2	Ocean:2	contests:2	species:2	challenge:2	championship:2	champion:2	tournament:2	AmFishnContests:6
+MB273	Tomaszewski:10	Scott:5	murder:5	case:2	neighbor:2	Rockville:2	stab:4	accused:4	guilty:4	murder:4
+MB274	SenSanders:10	Sanders:8	Bernie:5	campaign:2	democratic:2	nomination:2	poll:2	vote:2
+MB275	JebBush:10	Bush:8	Jeb:8	Republican:2	campaign:2	nomination:2	poll:2	vote:2
